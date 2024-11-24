@@ -29,6 +29,3 @@ function determineWinner(user , computer){
     }
 }
 
-
-//function for main game
-function mainGame 
